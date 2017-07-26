@@ -1,4 +1,5 @@
 kotlin-sandbox.iml
 .gradle/
 .idea/
+build/
 out/
