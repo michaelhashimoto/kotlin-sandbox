@@ -9,6 +9,7 @@ pipeline {
     stage('Test') {
       steps {
         bat 'ls'
+        pwd()
       }
     }
     stage('Deploy') {
